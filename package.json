@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/N-MaheAlam/Nazmul-Cypress-Automation/issues"
   },
-  "homepage": "https://github.com/N-MaheAlam/Nazmul-Cypress-Automation#readme"
+  "homepage": "https://github.com/N-MaheAlam/Nazmul-Cypress-Automation#readme",
+  "devDependencies": {
+    "cypress": "^13.6.4"
+  }
 }
